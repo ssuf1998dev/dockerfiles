@@ -1,7 +1,7 @@
 {
   "recommendations": [
-    "ms-azuretools.vscode-docker",
     "foxundermoon.shell-format",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "ms-azuretools.vscode-containers"
   ]
 }
